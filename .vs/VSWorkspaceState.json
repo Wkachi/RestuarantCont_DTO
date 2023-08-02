@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CCSARestaurant.Core",
+    "\\CCSARestaurant.DB",
+    "\\CCSARestaurant.DB\\Repositories",
+    "\\CCSARestaurantAPI",
+    "\\CCSARestaurantAPI\\Controllers",
+    "\\CCSARestaurantAPI\\DTOs",
+    "\\CCSARestaurantAPI\\obj"
+  ],
+  "SelectedNode": "\\CCSARestaurant.Core\\Chef.cs",
+  "PreviewInSolutionExplorer": false
+}
